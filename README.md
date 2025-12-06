@@ -33,7 +33,7 @@ We build:
 - An MLP that learns the XOR problem.  
 - An autoencoder for MNIST image reconstruction.  
 - An SVM classifier trained on the autoencoder’s latent features.  
-- The same architectures again using TensorFlow/Keras, to compare implementation effort, training time, and performance.[1][2]
+- The same architectures again using TensorFlow/Keras, to compare implementation effort, training time, and performance.
 
 ## Features
 
